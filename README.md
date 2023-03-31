@@ -28,5 +28,14 @@ Good luck!
 ### People
 
 - People are implemented as text files in the game.
-- Text files are named with starting uppercase letters as: John, SoldierWithoutWeapons, etc.
+- Text files are named with starting uppercase letters as: Cook, SoldierWithoutWeapons, etc.
+- **Remember** to end the text of the character with an empty line, otherwise it may look bad on the terminal.
+- Filenames should be physical descriptions of the characters, what they look like.
 - To speak with people, the player must use the `cat` command.
+- Examples of answers from characters:
+  - Hello, I am <name>. You should look for <this-or-that>.
+  - You must never talk with unarmed soldiers.
+  - <name> looks like <description>.
+  - <name> may be a lier / always says the truth.
+- The three dragons answer the same: "I am a dragon, and now you are dead!"
+- The only Princess answers: "I am the Princess, and now you are my slave :)"
